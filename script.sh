@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Esta es la actividad 1"
+echo "Esta es la actividad 1v2"
 echo "Para está actividad pondré a prueba lo que aprendí en la clase $NO_CLASE"
 echo -e "\nPrimero quiero presentarme: Me llamo $MI_NOMBRE"
 
